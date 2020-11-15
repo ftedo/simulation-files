@@ -221,5 +221,5 @@ ZEB2=True
 5: Goosecoid <= SMAD
 1: Hypoxia <= False
 1: IGF1 <= EGR1 or SP1 or cfos
-1: PDGF <= FOXM1 or EGR1 or Sp1
+1: PDGF <= FOXM1 or EGR1 or SP1
 1: CHD1L <= not miR31

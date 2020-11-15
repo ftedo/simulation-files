@@ -221,5 +221,5 @@ cfos=False
 5: Goosecoid <= SMAD
 1: Hypoxia_ex <= False
 1: IGF1_ex <= EGR1 or SP1 or cfos
-1: PDGF_ex <= FOXM1 or EGR1 or Sp1
+1: PDGF_ex <= FOXM1 or EGR1 or SP1
 1: CHD1L <= not miR31
